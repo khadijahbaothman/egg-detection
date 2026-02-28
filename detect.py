@@ -14,7 +14,7 @@ ROI_X2, ROI_Y2 = 980, 620
 TARGET = 6
 CONF = 0.6
 
-# tracking 345
+# tracking 3
 plate_present = False
 locked_count = 0
 
